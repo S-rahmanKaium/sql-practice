@@ -50,6 +50,6 @@ ORDER BY title ASC
 LIMIT 5;
 
 ```
-<!-- ![The solve looks liek](1.png) -->
+![The solve looks liek](1.png)
 > This code lists First 5 Pixer Movies Alphabetically. 
 
